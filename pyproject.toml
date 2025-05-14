@@ -1,6 +1,6 @@
 [project]
 name = "Flask TEST LAB2"
-version = "3.2.0.dev"
+version = "3.1.alex.dev"
 description = "A simple framework for building complex web applications."
 readme = "README.md"
 license = "BSD-3-Clause"
